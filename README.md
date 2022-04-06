@@ -1,1 +1,1 @@
-# PC-assembly
+# PC-assembly - учебный проект
